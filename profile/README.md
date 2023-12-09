@@ -4,6 +4,7 @@
 
 🌈 Contribution guidelines - Likely you would be a student registered in a course I am teaching, or an alum building on work you completed in the courses! But general help and requests for collaborations are always welcome!
 
+💖 [Sponsor us](https://github.com/sponsors/KDF-IVAS)
 <!--
 
 **Here are some ideas to get you started:**
